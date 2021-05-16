@@ -19,6 +19,12 @@ In no particular order:
 
 Memory usage sits extremely low at 11.6kB and peak usage at 12.5 kB (limit is ~500kB). The benchmarks of the `onUpdate()` function on a real-device also show that the watch face is CPU efficient.
 
+## Screenshots
+
+![watch face standard screenshot](https://raw.githubusercontent.com/quelcom/MyFace/master/screens/capture1.png)
+![watch face night screenshot](https://raw.githubusercontent.com/quelcom/MyFace/master/screens/capture2.png)
+![watch face with activity bar screenshot](https://raw.githubusercontent.com/quelcom/MyFace/master/screens/capture3.png)
+
 ## License
 
 MIT
